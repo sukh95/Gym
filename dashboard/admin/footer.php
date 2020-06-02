@@ -1,0 +1,1 @@
+<footer class="main">Sukh &copy; 2020 <strong>The Gym </strong></footer>
